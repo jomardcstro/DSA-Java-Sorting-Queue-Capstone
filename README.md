@@ -193,8 +193,12 @@ CustomerServiceQueue/
 
 ### 4. FIFO behavior
 
-![FIFO behavior](screenshots/04-fifo-behavior.png)
-![FIFO behavior](screenshots/04-fifo-behavior1.png)
+![FIFO behavior, part 1](screenshots/04-fifo-behavior.png)
+
+*Customers are enqueued in a known order.*
+
+![FIFO behavior, part 2](screenshots/04-fifo-behavior1.png)
+
 *Customers are enqueued in a known order and then served one by one. The first customer added is the first one served, followed by the second, and so on.*
 
 ### 5. First sorting algorithm: Insertion Sort (by name)
