@@ -175,10 +175,20 @@ CustomerServiceQueue/
 
 ### 3. Queue operations: enqueue, peek, dequeue, and display
 
-![Queue operations](screenshots/03-queue-operations1.png)
-![Queue operations](screenshots/03-queue-operations2.png)
-![Queue operations](screenshots/03-queue-operations3.png)
-![Queue operations](screenshots/03-queue-operations4.png)
+![Enqueue customers](screenshots/03-queue-operations1.png)
+
+*Customers are added to the queue using option 2.*
+
+![Display queue](screenshots/03-queue-operations2.png)
+
+*The waiting queue is displayed using option 5.*
+
+![Peek next customer](screenshots/03-queue-operations3.png)
+
+*The next customer is viewed without being removed using option 4.*
+
+![Serve next customer](screenshots/03-queue-operations4.png)
+
 *Customers are added to the queue (option 2), the queue is displayed (option 5), the next customer is peeked (option 4), and a customer is served (option 3). The queue is displayed again afterward to show the change.*
 
 ### 4. FIFO behavior
